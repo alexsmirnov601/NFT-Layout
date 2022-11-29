@@ -452,7 +452,7 @@ body {
   }
   .header__menu {
     width: 27px;
-    margin-left: 22px;
+    margin-left: 30px;
     background-image: url(../images/menu-mobile.svg);
   }
   .main {
@@ -594,7 +594,7 @@ body {
   .banner {
     margin-top: 50px;
   }
-  .header__menu {
+  /* .header__menu {
     margin-left: 30px;
-  }
+  } */
 }
