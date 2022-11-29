@@ -594,4 +594,7 @@ body {
   .banner {
     margin-top: 50px;
   }
+  .header__menu {
+    margin-left: 30px;
+  }
 }
