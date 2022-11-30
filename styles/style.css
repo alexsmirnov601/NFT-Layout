@@ -449,11 +449,13 @@ body {
   .header__search {
     width: 20px;
     background-image: url(../images/serach-mobile.svg);
+    background-repeat: no-repeat;
   }
   .header__menu {
     width: 27px;
     margin-left: 22px;
     background-image: url(../images/menu-mobile.svg);
+    background-repeat: no-repeat;
   }
   .main {
     /* position: relative; */
@@ -593,8 +595,5 @@ body {
   }
   .banner {
     margin-top: 50px;
-  }
-  .header__menu {
-    margin-left: 45px;
   }
 }
